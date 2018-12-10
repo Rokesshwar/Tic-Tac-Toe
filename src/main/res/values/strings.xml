@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_2_name_o">Player 2 name(O)</string>
+    <string name="player_1_name_x">Player 1 name(X)</string>
+    <string name="more">More</string>
+    <string name="start_newgame">Start NewGame</string>
+    <string name="turn">Turn</string>
+    <string name="rokesshwar_n_zohocorp_com">Email- rokesshwar.n@zohocorp.com</string>
+    <string name="_7010874153">Mobile no - 7010874153</string>
+</resources>
